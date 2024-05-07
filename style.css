@@ -1,0 +1,75 @@
+.container {
+  max-width: 1220px;
+  margin: 0 auto;
+}
+
+.ul-q {
+  list-style-type: none;
+  display: flex;
+  margin-left: 400px;
+  align-items: center;
+}
+
+header .container {
+  display: flex;
+  align-items: center;
+}
+
+.li-q {
+  margin-right: 30px;
+  font-size: 20px;
+}
+
+.li-w {
+  margin-right: 30px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 1px black solid;
+  padding: 10px 25px;
+  background-color: white;
+}
+
+.li-w:hover {
+  background-color: gray;
+  color: white;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #fff;
+}
+
+.foreign {
+  margin-top: 100px;
+}
+
+.mavzu {
+  font-size: 45px;
+  width: 400px;
+  font-family: "Poppins", sans-serif;
+}
+
+.imtihon-img {
+  position: absolute;
+  left: 390px;
+  top: 270px;
+}
+
+.text-2 {
+  width: 432px;
+  height: 100px;
+  font-family: "Poppins", sans-serif;
+}
+
+.foreign .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex {
+  width: 540px;
+  height: 540px;
+}
